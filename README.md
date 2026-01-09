@@ -44,3 +44,11 @@ O projeto é organizado por categorias para facilitar o aprendizado e a consulta
 1. Clone este repositório:
    ```bash
    git clone [https://github.com/seu-usuario/java-programming-logic.git](https://github.com/seu-usuario/java-programming-logic.git)
+
+
+
+
+---
+Desenvolvido por Rafael Santos Silva
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafael-silva-963b4222a)
+
